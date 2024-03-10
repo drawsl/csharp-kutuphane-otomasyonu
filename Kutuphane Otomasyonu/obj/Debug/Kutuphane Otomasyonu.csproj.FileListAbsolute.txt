@@ -1,0 +1,72 @@
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.exe.config
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.exe
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.pdb
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Google.Protobuf.dll
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\MySql.Data.dll
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\System.Buffers.dll
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\System.IO.Pipelines.dll
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\System.Memory.dll
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\ZstdSharp.dll
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Google.Protobuf.pdb
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Google.Protobuf.xml
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\MySql.Data.xml
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\System.Buffers.xml
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\System.IO.Pipelines.xml
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\System.Memory.xml
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Properties.Resources.resources
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.exe
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.pdb
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.SplashScreen.resources
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Forms.AnaSayfa.resources
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\MicroCom.Runtime.dll
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\System.ValueTuple.dll
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\System.ValueTuple.xml
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Forms.Login_Panel.resources
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.exe.manifest
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\Kutuphane Otomasyonu.application
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.exe.manifest
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane Otomasyonu.application
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphan.F70B635E.Up2Date
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Sayfalar.Dashboard.resources
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Sayfalar.KitapEkle.resources
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Forms.Register_Panel.resources
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Sayfalar.OkuyucuEkle.resources
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Sayfalar.KitapBilgiGirisi.resources
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Sayfalar.Emanetİslemleri.resources
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\LiveCharts.dll
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\LiveCharts.pdb
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\LiveCharts.xml
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Sayfalar.Ayarlar.resources
+C:\Users\enesy\Masaüstü\Kutuphane Otomasyonu\Kutuphane Otomasyonu\obj\Debug\Kutuphane_Otomasyonu.Sayfalar.KutuphaneAyarlar.resources
