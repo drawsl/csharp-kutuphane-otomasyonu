@@ -13,7 +13,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/downloads/drawsl/csharp-kutuphane-otomasyonu/total">
   <img src="https://img.shields.io/github/contributors/drawsl/csharp-kutuphane-otomasyonu?color=dark-green">
   <img src="https://img.shields.io/github/forks/drawsl/csharp-kutuphane-otomasyonu?style=social">
   <img src="https://img.shields.io/github/issues/drawsl/csharp-kutuphane-otomasyonu">
